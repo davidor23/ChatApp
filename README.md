@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ChatApp created using React and Firebase as backend and for deployment:
+
+## Live App link here: https://superchat-2b77a.web.app/
 
 ## Available Scripts
 
